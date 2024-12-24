@@ -4,7 +4,6 @@ import Cookies from 'js-cookie'
 import {SiYoutubegaming} from 'react-icons/si'
 
 import NxtWatchcontext from '../../context/NxtWatchcontext'
-
 import GamingItems from '../GamingItems'
 
 import {Container, Ul, H1} from './styledComponents'
